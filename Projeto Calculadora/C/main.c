@@ -7,7 +7,7 @@ int main()
     int escolha;
     int op = 0;
 
-    while (op != 1)
+    while (op != 2)
     {
         printf("\n----- Calculadora Simples -----\n");
         printf("1. Somar\n");
