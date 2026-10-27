@@ -1,0 +1,1 @@
+Projeto de uma calculadora desenvolvida em duas linguagens de programação: C e Python. O objetivo é implementar as principais operações matemáticas, praticar a organização de código e explorar as diferenças entre uma linguagem compilada e uma linguagem interpretada
